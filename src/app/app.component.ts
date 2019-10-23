@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { Component } from "@angular/core";
+=======
+import { Component } from '@angular/core';
+>>>>>>> parent of 7b90491... added the routes in the app module and the first route
 =======
 import { Component } from '@angular/core';
 >>>>>>> parent of 7b90491... added the routes in the app module and the first route
